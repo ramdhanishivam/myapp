@@ -1,5 +1,5 @@
 Update the config variable in the app.js file
-It must have a valid shopify store name and a access token of a app installed on that store with read_products scope.
+It must have a valid shopify store name and an access token of an app installed on that store with read_products scope.
 
 Now, Simply run the below command in the console
 
